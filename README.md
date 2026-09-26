@@ -1,81 +1,45 @@
-# Data Analytics Job Simulation – Deloitte
+# Cloud Engineering Internship — YuvaIntern
 
-## 📌 Project Overview
+[![Certificate](https://img.shields.io/badge/Certificate-Verified-1B305C?style=flat-square)](#certificate-details)
+[![Role](https://img.shields.io/badge/Role-Cloud%20Engineering%20Trainee-81202C?style=flat-square)](#certificate-details)
+[![Issued%20By](https://img.shields.io/badge/Issued%20By-YuvaIntern-yellow?style=flat-square)](https://yuvaintern.com)
 
-This repository contains my work and internship report for the **Data Analytics Job Simulation at Deloitte**, completed through the **Forage** platform as part of my B.Tech in Computer Science & Engineering at **IILM University, Greater Noida**.
+## About
 
-The simulation provided practical exposure to real-world data analytics and forensic technology tasks, focusing on transforming raw business data into meaningful insights and communicating findings to stakeholders.
+This repository documents my internship experience as a **Cloud Engineering Trainee** at **YuvaIntern**, completed in partnership with **Henry Harvin Education** and recognized under the **NSDC (National Skill Development Corporation)** framework.
 
-## 🎯 Objectives
+During the internship, I worked on cloud engineering fundamentals and contributed with consistency, professionalism, and a strong willingness to learn and grow.
 
-- Develop practical data analytics skills
-- Clean, combine, and analyse business datasets
-- Create interactive dashboards using Tableau
-- Perform forensic data analysis using Microsoft Excel
-- Identify trends, patterns, and operational issues
-- Communicate analytical findings as clear business conclusions
+## Certificate Details
 
-## 🛠️ Tools & Technologies
+| Field | Detail |
+|---|---|
+| **Intern Name** | Hassan Mansoori |
+| **Role** | Cloud Engineering Trainee |
+| **Organization** | YuvaIntern |
+| **Certificate No.** | YI/2026/205126/447341 |
+| **Date of Issue** | September 18, 2026 |
+| **Issued By** | Kounal Gupta, Founder — [YuvaIntern.com](https://yuvaintern.com) |
+| **Recognized By** | Henry Harvin Education, NSDC |
 
-- **Microsoft Excel**
-- **Tableau**
-- Data Cleaning & Data Analysis
-- Data Visualization
-- Forensic Data Analysis
-- Statistical Reasoning
-- Business Communication
+## Skills & Focus Areas
 
-## 📊 Tasks Completed
+- Cloud infrastructure fundamentals
+- Cloud service deployment and management
+- Hands-on engineering practices in a professional team environment
+- Collaboration and communication in a remote internship setting
 
-### 1. Data Analysis & Dashboarding
+## Certificate
 
-- Unified telemetry data from four global factory sites into a single dataset.
-- Analysed operational data to identify bottlenecks and downtime trends.
-- Created an interactive **Tableau dashboard** for business stakeholders.
-- Applied data cleaning, data unification, trend analysis, and dashboard design techniques.
+The original certificate of experience is included in this repository / available on request:
 
-### 2. Forensic Technology Analysis
+`Hassan_Mansoori_Certificate.pdf`
 
-- Investigated internal complaints related to pay inequality.
-- Used **Microsoft Excel** to analyse gender pay equality across roles and locations.
-- Applied forensic data analysis and statistical reasoning.
-- Developed business conclusions and communicated findings to the forensic lead.
+## Contact
 
-## 📚 Key Learning Outcomes
-
-- **Analytical Thinking:** Converting messy business data into structured insights.
-- **Tool Proficiency:** Practical experience with Excel and Tableau.
-- **Professional Communication:** Presenting technical findings as understandable business conclusions.
-- **Workplace Readiness:** Understanding how data analysts approach real-world consulting assignments.
-
-## 📜 Certification
-
-The internship/job simulation was issued through **Forage and verified by Deloitte**.
-
-**Participant:** Hassan Mansoori  
-**Roll No.:** 2410030674  
-**Programme:** B.Tech – Computer Science & Engineering  
-**University:** IILM University, Greater Noida  
-**Completion Date:** September 2, 2026
-
-## 📁 Repository Contents
-
-- `Internship_Report` – Detailed internship report
-- `Certificate` – Deloitte/Forage internship completion certificate
-- `Presentation` – Internship presentation
-- `Dashboard` – Data visualization/dashboard work
-- `Analysis` – Data analysis and supporting work
-
-## 🚀 Skills Demonstrated
-
-`Data Analytics` `Microsoft Excel` `Tableau` `Data Visualization` `Data Cleaning` `Forensic Analysis` `Statistical Analysis` `Business Intelligence` `Business Communication`
-
-## 👨‍💻 Author
-
-**Hassan Mansoori**  
-B.Tech Computer Science & Engineering  
-IILM University, Greater Noida
+**Hassan Mansoori**
+Feel free to connect for collaboration or opportunities related to cloud engineering.
 
 ---
 
-⭐ This project represents my practical learning experience in data analytics, visualization, and forensic technology through the Deloitte Data Analytics Job Simulation.
+*This README was generated to document and showcase a verified internship credential.*
